@@ -1,0 +1,6 @@
+numpy>=1.21
+pygame>=2.1
+
+gym>=0.26 
+
+pytest>=7.0
